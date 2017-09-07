@@ -218,3 +218,6 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+
+# Do not include generated docs pdf
+docs/fusion-docs.pdf
